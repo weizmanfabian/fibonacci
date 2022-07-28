@@ -1,4 +1,7 @@
 # Build and Release Folders
+#Ingnorando todos los node_modules en cualquier directorio
+**/node_modules/*
+
 bin-debug/
 bin-release/
 [Oo]bj/
